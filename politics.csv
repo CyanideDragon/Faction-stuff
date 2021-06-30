@@ -1,0 +1,11 @@
+,Sandwings,Mudwings,Skywings,seawings,Icewings,Rainwings,Nightwings,Hydwings,Hoodwings,Stormwings
+Sandwings,N/A,-170,-120,-188,+108,-174,-118,+39,+40,+86
+Mudwings,,N/A,+20,+166,-115,+151,-95,+164,-39,+63
+Skywings,,,N/A,-174,-172,+137,+198,-162,-156,+63
+Seawings,,,,N/A,+198,+132,+161,+90,+39,+152
+Icewings,,,,,N/A,+171,-197,+36,-35,-182
+Rainwings,,,,,,N/A,-89,+131,+95,+141
+Nightwings,,,,,,,N/A,+130,+198,+56
+Hydwings,,,,,,,,N/A,-125,+25
+Hoodwings,,,,,,,,,N/A,-120
+Stormwings,,,,,,,,,,N/A
